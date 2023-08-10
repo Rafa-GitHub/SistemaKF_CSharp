@@ -1,0 +1,17 @@
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\bin\Debug\net7.0-windows\SistemaKF.exe
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\bin\Debug\net7.0-windows\SistemaKF.deps.json
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\bin\Debug\net7.0-windows\SistemaKF.runtimeconfig.json
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\bin\Debug\net7.0-windows\SistemaKF.dll
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\bin\Debug\net7.0-windows\SistemaKF.pdb
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.csproj.AssemblyReference.cache
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.Form1.resources
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.csproj.GenerateResource.cache
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.AssemblyInfoInputs.cache
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.AssemblyInfo.cs
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.csproj.CoreCompileInputs.cache
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.dll
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\refint\SistemaKF.dll
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.pdb
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.genruntimeconfig.cache
+C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\ref\SistemaKF.dll
