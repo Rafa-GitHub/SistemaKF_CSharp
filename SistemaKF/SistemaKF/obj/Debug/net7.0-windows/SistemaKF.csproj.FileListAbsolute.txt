@@ -3,7 +3,6 @@ C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\b
 C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\bin\Debug\net7.0-windows\SistemaKF.runtimeconfig.json
 C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\bin\Debug\net7.0-windows\SistemaKF.dll
 C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\bin\Debug\net7.0-windows\SistemaKF.pdb
-C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.csproj.AssemblyReference.cache
 C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.Form1.resources
 C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.csproj.GenerateResource.cache
 C:\Users\rafak\OneDrive\Documents\cursoC#\SistemaKF_CSharp\SistemaKF\SistemaKF\obj\Debug\net7.0-windows\SistemaKF.GeneratedMSBuildEditorConfig.editorconfig
